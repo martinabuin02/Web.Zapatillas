@@ -1,0 +1,32 @@
+@font-face {
+    font-family: BlurBold;
+    src: url(../fonts/BlurBold.otf);
+}
+
+@font-face {
+    font-family: BlurLight;
+    src: url(../fonts/BlurLight.otf);
+}
+
+
+* {
+    margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+#lupita {
+    font-family: BlurBold;
+    font-size: 180%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+#lupita > a {
+    color: #000000;
+}
+
+.container {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
