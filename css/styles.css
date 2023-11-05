@@ -21,6 +21,7 @@
     font-size: 180%;
     margin-left: 1%;
     margin-top: 1%;
+    margin-bottom: 1%;
 }
 #lupita > a {
     color: #000000;
@@ -29,4 +30,17 @@
 .container {
     margin-top: 10%;
     margin-bottom: 10%;
+}
+
+.container.text-center {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#primerabarrita {
+    display: flex;
+    font-size: 3%;
+    font-family: BlurBold;
+    background-color: #000000;
+    color: white;
 }
