@@ -29,7 +29,7 @@
 
 .container {
     margin-top: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 17%;
 }
 
 .container.text-center {
@@ -43,4 +43,8 @@
     font-family: BlurBold;
     background-color: #000000;
     color: white;
+}
+
+div.col {
+    padding: 0;
 }
