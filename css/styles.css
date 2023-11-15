@@ -140,7 +140,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 0%;
-  background-color: #233140;
+  background-color: #000000;
 }
 
 div.row{
@@ -168,3 +168,17 @@ p{
 h5{
     font-family: BlurLight;
 }
+
+
+.collapse {
+    &:not(.show) {
+      display: none;
+    }
+  }
+  
+.btn.btn-primary{
+
+    margin: 0;
+    padding: 0;
+}
+
