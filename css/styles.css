@@ -95,8 +95,6 @@ div.col {
     color: #000000;
     display: flex;
     justify-content: center;
-    margin-left: none;
-    margin-right: none;
 }
 
 .btn-primary {
@@ -217,8 +215,6 @@ h5{
     color: #000000;
     display: flex;
     justify-content: center;
-    margin-left: none;
-    margin-right: none;
 }
 
 
